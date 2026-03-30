@@ -1,6 +1,6 @@
 # 🔤 fonts-CDN
 
-> IST Design 전용 웹폰트 CDN 저장소
+> 웹폰트 CDN 저장소
 
 [![jsdelivr](https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat-square&logo=jsdelivr)](https://www.jsdelivr.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-incamel-black?style=flat-square&logo=github)](https://github.com/incamel/fonts-CDN)
